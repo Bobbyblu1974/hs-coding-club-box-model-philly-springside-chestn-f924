@@ -32,14 +32,61 @@ h3 {
   background: grey;
 }
 
-/*"The Classy Roommate"*/
+#audrey {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 15px solid red;
+}
 
 
+#woody {
+    padding-top: 55.5px;
+    padding-bottom: 55.5px;
+    padding-left: 32.5px;
+    padding-right: 32.5px;
+    background-color: white;
+    border: 15px solid red;
+}
 
-/*"The Neurotic New Yorker"*/
+#newyork {
+  border: 15px solid red;
+}
+  #warhol {
+  height: 300px;
+}
 
+   #picasso {
+  height: 300px;
+}
 
-/*"The Art History Major"*/
+  .double {
+  border: 20px solid navy;
+  text-align: center;
+  background-color: white;
+}
+
+  #mj {
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 7px solid black;
+}
+
+#beyonce {
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid purple;
+}
+<div>
+border-style: solid;
+border-color: purple;
+border-width: 10px;
+border: 10px solid purple;
+</div>
 
 
 /*"Pop Culture Fanatic"*/
